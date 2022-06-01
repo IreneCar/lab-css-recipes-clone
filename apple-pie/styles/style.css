@@ -63,4 +63,10 @@ h3 {
 
 hr {
     border: 1px solid grey;
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+
+#receta {
+    margin: 70px 120px 30px 100px;
 }
